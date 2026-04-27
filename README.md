@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 
 <p align="center">
-  🚀 Founder @ YadavaTech • SaaS Builder • App Developer
+  🚀 Founder @ YadavaTech • SaaS Builder • Android Developer
 </p>
 
 <p align="center">
@@ -11,36 +10,73 @@
   <a href="https://www.linkedin.com/in/your-linkedin"><b>LinkedIn</b></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-SaaS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apps-Android-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-APIs-black?style=flat-square" />
+</p>
+
 ---
 
 ## 🧠 About Me
 
-- 💼 Building scalable products at **YadavaTech**
-- 🚀 Focused on SaaS, automation & developer tools  
-- 📱 Creating mobile apps that solve real problems  
-- 💰 Goal: Building high-revenue digital products  
+- 💼 Founder of **YadavaTech**  
+- 🚀 Building SaaS, mobile apps & automation tools  
+- 📱 Android-first developer (scalable apps)  
+- 💰 Focused on high-revenue digital products  
 
 ---
 
-## 🔥 What I’m Working On
+## 💼 Services (Client Magnet Section)
+
+💼 I help businesses and startups build:
+
+- 🚀 SaaS Platforms (from idea → launch)  
+- 📱 Android Apps (production-ready)  
+- ⚙️ Backend APIs & systems  
+- 🤖 Automation tools & internal dashboards  
+
+📩 **Available for freelance & collaboration**
+
+---
+
+## 🔥 Current Focus
 
 - 🚀 DevBase – Developer boilerplates platform  
-- 📊 SaaS & automation tools  
-- 📱 Mobile apps (Android-first)  
-- ⚙️ Backend systems & APIs  
+- 📊 SaaS products & monetization systems  
+- 📱 Scalable Android apps  
+- ⚙️ High-performance backend systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-- Java, Kotlin, JavaScript
+- Java, Kotlin, JavaScript  
 
 **Frameworks & Tools**
-- Android SDK, Firebase, Node.js
+- Android SDK, Firebase, Node.js  
 
 **Other**
 - REST APIs, SaaS Architecture, Monetization Systems  
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 DevBase
+Developer-first platform for starter kits & boilerplates  
+🔗 https://devbase.yadavatech.com  
+
+---
+
+### 📱 Android SaaS App
+Production-ready Android app with monetization system  
+
+---
+
+### ⚙️ Backend API System
+Scalable backend architecture for apps & SaaS  
 
 ---
 
@@ -59,11 +95,11 @@
 ## 🌐 Connect With Me
 
 - 🌍 https://yadavatech.com  
-- 💼 LinkedIn (update your link)  
+- 💼 LinkedIn (update link)  
 - 📧 contact@yadavatech.com  
 
 ---
 
 <p align="center">
-  <sub>Building products, not just projects 🚀</sub>
+  <sub>Building scalable products & income-generating systems 🚀</sub>
 </p>
