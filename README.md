@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://yadavatech.com"><b>Company</b></a> ·
-  <a href="https://devbase.yadavatech.com"><b>DevBase</b></a> ·
+  <a href="https://www.getdevbase.com"><b>DevBase</b></a> ·
   <a href="https://www.linkedin.com/in/your-linkedin"><b>LinkedIn</b></a>
 </p>
 
@@ -95,8 +95,8 @@ Scalable backend architecture for apps & SaaS
 ## 🌐 Connect With Me
 
 - 🌍 https://yadavatech.com  
-- 💼 LinkedIn (update link)  
-- 📧 contact@yadavatech.com  
+- 💼 https://linkedin.com/in/guddu-kumar-8ab0722a8
+- 📧 aditya@yadavatech.com  
 
 ---
 
